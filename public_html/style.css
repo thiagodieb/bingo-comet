@@ -1,0 +1,15 @@
+span{
+    border: 2px solid blue;
+    display: inline-table;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    margin: 4px;
+    width: 29px;
+}
+#content{
+    width: 165px;
+
+}
+span.sorteado{
+   background:yellow; 
+}
